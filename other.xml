@@ -1,0 +1,9 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.6.0/bin/node" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_CLASS_IN_FILE" value="false" />
+  </component>
+</application>
