@@ -1,6 +1,5 @@
 <application>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
 </application>
