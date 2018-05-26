@@ -1,12 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/local/bin/php" id="70595062-03d8-490e-b45b-75bf8d82b683" name="PHP" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php56/5.6.29_5/bin/php" id="3d10f812-0a76-4021-8732-a8bc82358e59" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php55/5.5.38_11/bin/php" id="33eec246-526c-4502-abb5-a72e9152c92e" name="PHP 5.5" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php71/7.1.5_17/bin/php" id="1409aa5d-47e4-4862-aeab-40cbc2b4d41d" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.5">
