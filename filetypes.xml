@@ -7,6 +7,7 @@
       <mapping pattern="it_cloud_accounts_2018-09-12_03:56:05" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="prev_version" type="PLAIN_TEXT" />
+      <mapping pattern="DMT-15388_moveSIngleAccountsUpgrades.php" type="PLAIN_TEXT" />
       <mapping pattern="exclude-list" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
