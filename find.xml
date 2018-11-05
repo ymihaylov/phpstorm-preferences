@@ -12,8 +12,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.php</mask>
-    <mask>*.tpl</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
