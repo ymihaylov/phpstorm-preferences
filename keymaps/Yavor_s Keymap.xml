@@ -25,6 +25,9 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PyRunFileInConsole">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="Refresh" />
   <action id="Replace" />
   <action id="ReplaceInPath" />
